@@ -2,7 +2,7 @@
   "name": "server-test",
   "homepage": "https://shovontanvir.github.io/seemoservertest/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "-": "0.0.1",
     "@popperjs/core": "^2.11.2",
