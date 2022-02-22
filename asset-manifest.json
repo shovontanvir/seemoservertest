@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/seemoservertest/static/css/main.327c1559.css",
-    "main.js": "/seemoservertest/static/js/main.e1d161f6.js",
-    "static/js/787.915de6bc.chunk.js": "/seemoservertest/static/js/787.915de6bc.chunk.js",
+    "main.js": "/seemoservertest/static/js/main.7ea4d07c.js",
+    "static/js/787.4e6c614e.chunk.js": "/seemoservertest/static/js/787.4e6c614e.chunk.js",
     "static/media/banner.png": "/seemoservertest/static/media/banner.a2a54116788d0c250c21.png",
     "static/media/blogdescription.png": "/seemoservertest/static/media/blogdescription.df682be55e10f7036603.png",
     "static/media/indoor.png": "/seemoservertest/static/media/indoor.d3976011c2ee64e48d25.png",
@@ -12,11 +12,11 @@
     "static/media/recents-3.png": "/seemoservertest/static/media/recents-3.f9b9be0f47bfeba620e5.png",
     "index.html": "/seemoservertest/index.html",
     "main.327c1559.css.map": "/seemoservertest/static/css/main.327c1559.css.map",
-    "main.e1d161f6.js.map": "/seemoservertest/static/js/main.e1d161f6.js.map",
-    "787.915de6bc.chunk.js.map": "/seemoservertest/static/js/787.915de6bc.chunk.js.map"
+    "main.7ea4d07c.js.map": "/seemoservertest/static/js/main.7ea4d07c.js.map",
+    "787.4e6c614e.chunk.js.map": "/seemoservertest/static/js/787.4e6c614e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.327c1559.css",
-    "static/js/main.e1d161f6.js"
+    "static/js/main.7ea4d07c.js"
   ]
 }
